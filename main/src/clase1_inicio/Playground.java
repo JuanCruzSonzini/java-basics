@@ -1,3 +1,5 @@
+package clase1_inicio;
+
 public class Playground {
     public static void main(String[] args) {
         //prueba de distintos systems.xxx.println

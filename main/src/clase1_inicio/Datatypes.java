@@ -1,3 +1,5 @@
+package clase1_inicio;
+
 public class Datatypes {
     public static void main(String [] args) {
         int myInt=37;

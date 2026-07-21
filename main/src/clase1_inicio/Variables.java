@@ -1,3 +1,5 @@
+package clase1_inicio;
+
 public class Variables {
     public static void main(String[] args) {
         //variables
